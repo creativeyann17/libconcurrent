@@ -5,8 +5,8 @@
 The concurrent library is my implementation of a QtConcurrent equivalent in C. It's very easy to use and portable on every Posix compliant system.
 
 ## Requirement for the library
-*Posix Thread implementation
-*Multi-core processor (recommended)
+* Posix Thread implementation
+* Multi-core processor (recommended)
 
 ## Benchmark 1
 The released package includes a benchmark example, here is the test configuration:
